@@ -1,0 +1,24 @@
+baseURL = 'https://cidlopes.com/'
+languageCode = 'en-us'
+title = 'Cid Lopes'
+theme = 'nightfall'
+
+[params]
+author = "Cid Lopes"
+user = "cid"
+hostname = "cidlopes.com"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/supercid"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://www.twitter.com/super_cid"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/alcidemar/"
